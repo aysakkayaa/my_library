@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: my-library
+Version: 0.1.0
+Summary: NLP ve Qdrant ile ilgili işlemleri kolaylaştıran bir Python kütüphanesi.
+Home-page: https://github.com/aysakkayaa/my_library
+Author: Ayşegül Akkaya
+Author-email: ayswasinthere@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# My Library
+
+**My Library**, NLP ve Qdrant ile ilgili işlemleri kolaylaştıran, modüler bir Python kütüphanesidir.
+
+## Kurulum
+
+1. Bu projeyi klonlayın:
+   ```bash
+   git clone https://github.com/aysakkayaa/my_library.git
+   cd my_library
+   
+  ```bash
+  pip install .
+
+
+
